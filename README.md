@@ -1,4 +1,7 @@
 # Sorting
 Exploration of Sorting Algorithms
 
-1. Bubble Sort
+## Bubble Sort: 
+$$O(N^2) = O(N) * O(N-1)$$  
+
+![Bubble](https://content.codecademy.com/courses/sorting/BubbleSort.gif)
